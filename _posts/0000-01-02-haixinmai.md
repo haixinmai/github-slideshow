@@ -2,7 +2,7 @@
 root = false
 
 [*]
-indent_style = tab
+indent_style = tab new
 indent_size = 4
 end_of_line = lf
 trim_trailing_whitespace = true
